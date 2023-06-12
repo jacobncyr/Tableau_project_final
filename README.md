@@ -1,17 +1,16 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+I wanted to learn more about the fifa soccer players. I was interested in their wages.
 
 ## Process
-### (your step 1)
-### (your step 2)
+To do this i  analyzed the data and made sure my data columns were correct. I had to convert the nationality data to a measure of lattitude and longitude. From this data i was able to look at the players, their regions and their wages.
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+I originally had a few questions about wage, location and effort exerted to the game. i found that there is a slight linear correlation among whether you are young and get paid well or whetheer you are older and get paid a little less well. Some people also make alot of money to play less aggressively, either they are overpaid or really good at effortlessly playing soccer.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+I had no geolocation data and had to convert a column to latitude and longitude. The only other problem i ran into was running out of space i wanted to look at more data scenarios.
 
 ## Future Goals
-(what would you do if you had more time?)
+If i had more time i would do more analysis. My small computer screen only allowed me to fit so much onto the dashboard. I would also add animation.

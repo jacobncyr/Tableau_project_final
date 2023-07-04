@@ -1,22 +1,24 @@
-# Final-Project-Tableau
+Final Project - Tableau
+Project Goals
+The goal of this project was to analyze FIFA soccer player data, specifically focusing on their wages. The project aimed to explore various aspects such as player nationality, wages, and location.
 
-## Project/Goals
-I wanted to learn more about the fifa soccer players. I was interested in their wages.
+Process
+During the analysis, the data was carefully examined and the necessary data columns were identified. One significant task involved converting the nationality data into latitude and longitude coordinates. This geographical information allowed for the visualization of player regions and their corresponding wages.
 
-## Process
-To do this i  analyzed the data and made sure my data columns were correct. I had to convert the nationality data to a measure of lattitude and longitude. From this data i was able to look at the players, their regions and their wages.
+Results
+The analysis addressed several questions related to wages, location, and player performance. The following key findings were observed:
 
-## Results
-I originally had a few questions about wage, location and effort exerted to the game. i found that there is a slight linear correlation among whether you are young and get paid well or whetheer you are older and get paid a little less well. Some people also make alot of money to play less aggressively, either they are overpaid or really good at effortlessly playing soccer.
-My 5 questions answered were.
-1.what is the sum and average players by nationality
-2.What is the players average wage and their region. Display the most paid players.
-3.which futbol clubs play the best and where d they play?
-4.Aggression correlation: who is making money for playing harder and who is making money for talent.
-5.is age correlated with pay?
-Refer to the story to answer these questions. Explore by using the map as a filter for location in the dashboard.
-## Challenges 
-I had no geolocation data and had to convert a column to latitude and longitude. The only other problem i ran into was running out of space i wanted to look at more data scenarios.
+Nationality Analysis: The project calculated the sum and average number of players for each nationality.
+Wage and Region: The average wages of players were compared across different regions. The visualization also highlighted the highest-paid players.
+Top Performing Clubs: The project identified the top-performing football clubs and their respective locations.
+Aggression Correlation: The analysis explored the relationship between player aggression and wages. It highlighted players who earned significant amounts either due to exceptional talent or effortless playing.
+Age and Pay: The project investigated the correlation between player age and wages.
+To explore these findings further, refer to the project's story. The map can be used as a filter for location in the dashboard.
 
-## Future Goals
-If i had more time i would do more analysis. My small computer screen only allowed me to fit so much onto the dashboard. I would also add animation.
+Challenges
+Several challenges were encountered during the project:
+
+Geolocation Data: The absence of geolocation data required converting a column to latitude and longitude coordinates.
+Limited Space: Due to space limitations on the dashboard, it was difficult to include additional data scenarios.
+Future Goals
+Given more time, the project could benefit from additional analysis. Considering the constraints of a small computer screen, expanding the dashboard's capacity and incorporating animation would be beneficial.
